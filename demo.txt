@@ -1,0 +1,1 @@
+This is a demo text and demo file. I created this file using cat > demo.txt command and edit it on the terminal. the cat command will concatenate this text to the file.

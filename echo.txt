@@ -1,0 +1,1 @@
+this text is generated in the terminal using echo cmd. I am redirecting the output of the echo command to append the file. Syntax echo text >> filename. And to see the text of the file I can use cmds:  cat echo.txt  or  less echo.txt  or  more echo.txt 

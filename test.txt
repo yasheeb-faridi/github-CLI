@@ -1,0 +1,2 @@
+This is a text file I created on terminal using emac test.txt command and then edited it using GNU Emacs editor.I am doing this to learn github. 
+Some text is also added by nano editor.
